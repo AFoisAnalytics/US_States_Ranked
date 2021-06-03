@@ -1,4 +1,4 @@
-# US_States_Ranked
+# US States Ranked
 
 Data Sources
 
